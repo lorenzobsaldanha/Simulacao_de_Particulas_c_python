@@ -1,4 +1,6 @@
 # Simulacao_de_Particulas_c_python
+# Integrantes:  Carlos Henrique Goebel Teixeira Furtado e Lorenzo Baldisssera Saldanha
+
 O repositório possui os arquivos particle_sim em C e python, e um Makefile capaz de realizar a conexão entre as duas linguagens.
 Ao entrar no repositório em um prompt e usar o comando "make", o arquivo libparticle_sim.so será criado, para assim poder executar os comandos "make caso_estudo1", "make caso_estudo2" e "make caso_estudo3" para mostrar uma simulação de partículas com 7, 35 e 100 partículas, respectivamente.
 
