@@ -7,6 +7,7 @@ Em Windows isso pode ser feito com os comandos "pip install matplotlib" e "pip i
 
 Make é um comando natural de linux, entretanto para usuários de Windowns este comando precisa ser configurado. Seguem os seguintes passos para implementar o uso de make no prompt do Windows:
 -Baixe GnuWin no site: https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download?use_mirror=sitsa&download
+
 -Execute o setupwizard, apenas clicando em prosseguir. A única opção que não está previamente assinalada é a de concordar com os termos de serviço.
 -Após concordar, não precisa alterar ou marcar nenhuma das opções que já estão marcadas, apenas vá prosseguindo.
 -Ao finalizar o setupwizard do GnuWin, ainda é necessário configurá-lo como variável de usuário.
